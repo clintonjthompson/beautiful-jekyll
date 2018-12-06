@@ -12,7 +12,13 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 **Here is some bold text**
 And this is some code:
 
-```{r 
+```{r}
+as_tibble(mtcars)
+
+mtcars %>%
+  filter(am==1) %>%
+  {table("Number Cylinders" = .$cyl, "Engine Type" = .$vs)}
+```
 
 ```{r}
        Sesame
