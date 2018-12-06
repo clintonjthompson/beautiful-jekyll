@@ -13,7 +13,7 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 
 And this is some code:
 
-```r
+```R
 as_tibble(mtcars)
 ```
 
@@ -34,7 +34,7 @@ as_tibble(mtcars)
 ## # ... with 22 more rows
 ```
 
-```r
+```R
 mtcars %>%
   filter(am==1) %>%
   {table("Number Cylinders" = .$cyl, "Engine Type" = .$vs)}
