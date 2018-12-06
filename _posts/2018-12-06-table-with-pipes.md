@@ -2,8 +2,6 @@
 layout: post
 title: Filtered Table with Pipes
 subtitle: Placing a table at the end of a dplyr chain
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [pipes, table, filter]
 ---
 
