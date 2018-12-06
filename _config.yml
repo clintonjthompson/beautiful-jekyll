@@ -17,7 +17,7 @@ baseurl: ""
 title: Clinton J. Thompson
 
 # Short description of your site
-description: R, Python, and Linux:  A Learning Log
+description: R, Python, and Linux --- A Learning Log
 
 # --- Navigation bar options --- #
 
@@ -134,7 +134,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/New York"  #Vancouver"
+timezone: "America/New_York"  #Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
