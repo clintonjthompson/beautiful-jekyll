@@ -13,7 +13,7 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 
 And this is some code:
 
-```{r}
+```r
 as_tibble(mtcars)
 
 mtcars %>%
@@ -22,8 +22,9 @@ mtcars %>%
 ```
 
 ```
-       Sesame
-Hummus  FALSE TRUE
-  FALSE    25  193
-  TRUE     75  566
+                Engine Type
+Number Cylinders 0 1
+               4 1 7
+               6 3 0
+               8 2 0
 ```
