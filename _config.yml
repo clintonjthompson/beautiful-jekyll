@@ -17,7 +17,7 @@ baseurl: ""
 title: Clinton J. Thompson
 
 # Short description of your site
-description: R, Python, and Linux --- A Learning Log
+description: R, Python, and Linux:  A Learning Log
 
 # --- Navigation bar options --- #
 
@@ -75,7 +75,7 @@ social-network-links:
   email: "someone@example.com"
 #  facebook: daattali
   github: clintonjthompson
-#  linkedin: daattali
+  linkedin: Clinton Thompson
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 
