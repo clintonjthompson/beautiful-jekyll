@@ -17,7 +17,7 @@ And this is some code:
 as_tibble(mtcars)
 ```
 
-`
+```
 ## # A tibble: 32 x 11
 ##      mpg   cyl  disp    hp  drat    wt  qsec    vs    am  gear  carb
 ##  * <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl>
@@ -32,7 +32,7 @@ as_tibble(mtcars)
 ##  9  22.8     4  141.    95  3.92  3.15  22.9     1     0     4     2
 ## 10  19.2     6  168.   123  3.92  3.44  18.3     1     0     4     4
 ## # ... with 22 more rows
-`
+```
 
 ```r
 mtcars %>%
@@ -40,10 +40,10 @@ mtcars %>%
   {table("Number Cylinders" = .$cyl, "Engine Type" = .$vs)}
 ```
 
-`
+```
 ##                 Engine Type
 ## Number Cylinders 0 1
 ##                4 1 7
 ##                6 3 0
 ##                8 2 0
-`
+```
