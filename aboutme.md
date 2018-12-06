@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Why and What
+subtitle: Or, aren't there enough of these blasted blogs out there already?  
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+This website (blog?) is really just a way for me to easily log -- and remember -- the code and concepts I'm learning and using in R, Python, and Linux.  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### What else?  
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm a mathematical statistician at the FDA and have used R off and on for a few years, although now I use it daily.  Aiming to become more of a power user and to supplement my work with Python.  I also just started using Linux (Mint) and whatever tips and tricks I learn along the way using Linux, I'll document here, too.  
