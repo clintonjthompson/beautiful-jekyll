@@ -5,7 +5,7 @@ subtitle: Placing a table at the end of a dplyr chain
 tags: [pipes, table, filter]
 ---
 
-There is no questioning the power and versatility of `tidyverse`.  One thing I couldn't figure out, though, was how to use the piping capability (`%>%`) with the `table` or `CrossTable` commands.  After much sleuthing and searching around on the interwebs, I learned that the `table` command needs to be surrounded curly brackets and the variable name preceded by `.$`.  
+There is no questioning the power and versatility of `tidyverse`.  One thing I couldn't figure out, though, was how to use the piping capability (`%>%`) with the `table` or `CrossTable` commands.  After much sleuthing and searching around on the interwebs, I learned that the `table` command needs to be surrounded by curly brackets and the variable name preceded by `.$`.  
 
 Here is some example code:
 
