@@ -17,7 +17,7 @@ And this is some code:
 as_tibble(mtcars)
 ```
 
-```
+```RMarkdown
 ## # A tibble: 32 x 11
 ##      mpg   cyl  disp    hp  drat    wt  qsec    vs    am  gear  carb
 ##  * <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl> <dbl>
@@ -40,7 +40,7 @@ mtcars %>%
   {table("Number Cylinders" = .$cyl, "Engine Type" = .$vs)}
 ```
 
-```
+```RMarkdown
 ##                 Engine Type
 ## Number Cylinders 0 1
 ##                4 1 7
