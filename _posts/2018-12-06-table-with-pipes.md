@@ -5,13 +5,9 @@ subtitle: Placing a table at the end of a dplyr chain
 tags: [pipes, table, filter]
 ---
 
-This
+There is no questioning the power and versatility of `tidyverse`.  One thing I couldn't figure out, though, was how to use the piping capability (`%>%`) with the `table` or `CrossTable` commands.  After much sleuthing and searching around on the interwebs, I learned that the `table` command needs to be surrounded curly brackets and the variable name preceded by `.$`.  
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-**Here is some bold text**
-
-And this is some code:
+Here is some example code:
 
 ```R
 as_tibble(mtcars)
