@@ -8,4 +8,4 @@ This website (blog?) is really just a way for me to easily log -- and remember -
 
 ### What else?  
 
-I'm a mathematical statistician at the FDA and have used R off and on for a few years, although now I use it daily.  Aiming to become more of a power user and to supplement my work with Python.  I also just started using Linux (Mint) and whatever tips and tricks I learn along the way using Linux, I'll document here, too.  
+I have used R off and on for a few years, although I now use it daily.  Aiming to become more of a power user and to supplement my work with Python.  I also just started using Linux and whatever tips and tricks I learn along the way using Linux, I'll document here, too.  
