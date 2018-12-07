@@ -32,23 +32,23 @@ get_1wayfreqs <- function(varname) {
 ```
 
 ```R
-table("VS" = mtcars$vs)
+as.data.frame(table(mtcars$vs))
 ```
 
 ```RMarkdown
-## VS
-##  0  1 
-## 18 14
+##   Var1 Freq
+## 1    0   18
+## 2    1   14
 ```
 
 ```R
-table("AM" = mtcars$am)
+as.data.frame(table(mtcars$am))
 ```
 
 ```RMarkdown
-## AM
-##  0  1 
-## 19 13
+##   Var1 Freq
+## 1    0   19
+## 2    1   13
 ```
 
 ```R
