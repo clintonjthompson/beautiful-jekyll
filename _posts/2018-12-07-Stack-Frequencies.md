@@ -5,7 +5,7 @@ subtitle: Function to extract frequencies for several variables
 tags: [R, function, frequencies]
 ---
 
-I recently sought to embed a table in a graph with the frequency of occurence of certain characteristics.  In order to do this I needed to extract said frequencies, stack them (`rbind`), then designate as a `data.frame`.  Using the `mtcars` data as example, this is how I did it.  
+I recently sought to embed a table in a graph with the frequency of occurence of certain characteristics.  In order to do this I needed to extract said frequencies then stack them (`rbind`) into a single `data.frame`.  Using the `mtcars` data as example, this is how I did it.  
 
 ```R
 head(mtcars)
