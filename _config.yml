@@ -25,8 +25,10 @@ description: R, Python, and Linux --- A Learning Log
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+     - R for Data Science: "https://r4ds.had.co.nz/"
+     - Python Tutorial: "https://docs.python.org/3/tutorial/index.html
+#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+#    - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "https://clintonjthompson.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
