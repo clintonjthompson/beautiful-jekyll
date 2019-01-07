@@ -10,7 +10,6 @@ tags: [graphics]
 The text is chock-full of well-designed, informative, insightful graphics so leafing through the book is worthwhile.  The main points -- at least those I highlighted or summarized in the margins -- are the following:
 
 1. An informative, accurate, and persuasive graphic has certain qualities (p.45):
-
     i)  It is truthful:  it is based on thorough and honest research.
     ii)  It is functional:  it is an accurate depiction of the data.
     iii)  It is beautiful:  attractive, intriguing, and even aesthetically pleasing for its intended audience.
