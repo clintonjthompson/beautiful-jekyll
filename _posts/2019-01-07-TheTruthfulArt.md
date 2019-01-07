@@ -1,0 +1,1 @@
+[Albert Cairo's](http://www.thefunctionalart.com/) "The Truthful Art:  data, charts, and maps for communication" is referenced in Hadley Wickham & Garrett Grolemund's "R for Data Science" as a book worth reading.  So I bought it and read it.   
