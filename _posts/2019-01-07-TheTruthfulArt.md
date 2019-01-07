@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Truthful Art
-subtitle:  Primary Highlight
+subtitle:  
 tags: [graphics]
 ---
 
