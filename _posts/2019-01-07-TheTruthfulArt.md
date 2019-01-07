@@ -15,14 +15,10 @@ The text is chock-full of well-designed, informative, insightful graphics so lea
     + It is beautiful:  attractive, intriguing, and even aesthetically pleasing for its intended audience.
     + It is insightful:  reveals evidence that would be hard to see otherwise.
     + It is enlightening:  if the evidence it depicts is understood and accepted it will change our minds for the better.  
-
 2. Simplicity:  data visualization is **not** the same as data decoration (p.56).  
-
 3. "When doing a visualization, or the analysis that precedes it, always ask yourself:  compared to what, to whom, to when, to where...?" (p.90).
-
 4. On simplicity:  "Simplicity is about subtracting the obvious and adding the meaningful" (p. 97; quote reproduced from *The Laws of Simplicity* by John Maeda).  
     + Cairo's follow-up:  "Simplicity isn't just about *reduction*.  It can (and should) also be about *augmentation*.  It consists of removing what isn't relevant from our models but also of bringing in those elements that are essential to making those models truer."  
-
 5. The skills of an educated person (p.97), as suggested by cartographer Mark Monmonier in his book *Mapping It Out*:
     + Literacy, or fluency in written expression and understanding of texts.
     + Articulacy, or fluency in oral communication.
