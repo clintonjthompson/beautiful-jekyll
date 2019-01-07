@@ -20,14 +20,14 @@ The text is chock-full of well-designed, informative, insightful graphics so lea
 
 3. "When doing a visualization, or the analysis that precedes it, always ask yourself:  compared to what, to whom, to when, to where...?" (p.90).
 
-4. On simplicity:  "Simplicity is about subtracting the obvious and adding the meaningful" (p. 97; quote reproduced from *The Laws of Simplicity* by John Maeda).  Cairo's follow-up:  "Simplicity isn't just about *reduction*.  It can (and should) also be about *augmentation*.  It consists of removing what isn't relevant from our models but also of bringing in those elements that are essential to making those models truer."  
+4. On simplicity:  "Simplicity is about subtracting the obvious and adding the meaningful" (p. 97; quote reproduced from *The Laws of Simplicity* by John Maeda).  
+    + Cairo's follow-up:  "Simplicity isn't just about *reduction*.  It can (and should) also be about *augmentation*.  It consists of removing what isn't relevant from our models but also of bringing in those elements that are essential to making those models truer."  
 
 5. The skills of an educated person (p.97), as suggested by cartographer Mark Monmonier in his book *Mapping It Out*:
-
-    a. Literacy, or fluency in written expression and understanding of texts.
-    b. Articulacy, or fluency in oral communication.
-    c. Numeracy, or fluency in analyzing, summarizing, and presenting data.
-    d. Graphicacy, or fluency in interpreting and using visuals.  
+    + Literacy, or fluency in written expression and understanding of texts.
+    + Articulacy, or fluency in oral communication.
+    + Numeracy, or fluency in analyzing, summarizing, and presenting data.
+    + Graphicacy, or fluency in interpreting and using visuals.  
  
 The remainder of the book covers some basic statistical concepts, e.g. variable types, standardization, hypothesis testing, etc., in the context of creating meaningful graphics.  
 
