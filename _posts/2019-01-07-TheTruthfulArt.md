@@ -10,12 +10,11 @@ tags: [graphics]
 The text is chock-full of well-designed, informative, insightful graphics so leafing through the book is worthwhile.  The main points -- at least those I highlighted or summarized in the margins -- are the following:
 
 1.  An informative, accurate, and persuasive graphic has certain qualities (p.45):
-
-    i)  It is truthful:  it is based on thorough and honest research.
-    ii)  It is functional:  it is an accurate depiction of the data.
-    iii)  It is beautiful:  attractive, intriguing, and even aesthetically pleasing for its intended audience.
-    iv)  It is insightful:  reveals evidence that would be hard to see otherwise.
-    v)  It is enlightening:  if the evidence it depicts is understood and accepted it will change our minds for the better.  
+        i)  It is truthful:  it is based on thorough and honest research.
+        ii)  It is functional:  it is an accurate depiction of the data.
+        iii)  It is beautiful:  attractive, intriguing, and even aesthetically pleasing for its intended audience.
+        iv)  It is insightful:  reveals evidence that would be hard to see otherwise.
+        v)  It is enlightening:  if the evidence it depicts is understood and accepted it will change our minds for the better.  
 
 2.  Simplicity:  data visualization is **not** the same as data decoration (p.56).  
 
