@@ -5,7 +5,7 @@ subtitle:
 tags: [Python]
 ---
 
-Learning any new programming language is easier if a handful of keyboard shortcuts are memorized.  Using Spyder, here is my working list:    
+Learning any new programming language is easier if a handful of keyboard shortcuts are memorized.  Using Spyder, here is my working list (to be expanded as necessary):    
 
 * `Ctrl + Enter` = Run selected line(s) in Python editor 
 * `Ctrl + Shift + E` = Tab to Python editor
@@ -14,7 +14,5 @@ Learning any new programming language is easier if a handful of keyboard shortcu
 * `%run` = Run Python program from IPython session.  Note the name of the program follows `%run`.  
 * `Ctrl + L`, `%clear` = Clear screen
 * `dir()` = Lists defined objects (names in current scope)
-
-
-
-
+* `%reset` = Delete all variables/names defined in interactive namespace
+* `%xdel` = Delete a variable (object?)
